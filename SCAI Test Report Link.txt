@@ -1,0 +1,3 @@
+SCAI iOS test report link- https://docs.google.com/spreadsheets/d/16Iqj1Fa094pCNGMsdD-imZLHwD6mjyG77B7eTi0mmls/edit#gid=1784189907
+
+SCAI android test report link- https://docs.google.com/spreadsheets/d/1LmM2-yeupv-E27kesvaVYBByIFmScaaxRMXgRDnf_6U/edit#gid=1784189907
